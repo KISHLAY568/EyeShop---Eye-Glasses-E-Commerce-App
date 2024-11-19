@@ -254,7 +254,7 @@ function App() {
               component={Link}
               to="/"
             >
-              Help Line
+              EyeShop
             </Typography>
           </Stack>
 
@@ -424,7 +424,6 @@ function App() {
         </Routes>
         <ListItems />
       </AppData.Provider>
-     
     </HashRouter>
   );
 }
